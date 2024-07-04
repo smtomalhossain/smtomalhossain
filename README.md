@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5616AQFX1qQc8i_COQ/profile-displaybackgroundimage-shrink_350_1400/0/1719355069173?e=1725494400&v=beta&t=bn38v3kMUhh4_Hv2LPGMFJJ5jBnP0hSsovs4QfNJ0_w">
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tomal+Hossain!;" />
 </h1>
